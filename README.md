@@ -1,2 +1,3 @@
-# artifice
-An open source 3D modelling program.
+# Artifice
+
+An intuitive, open source 3D modeling program.
